@@ -1,27 +1,32 @@
-<h1 align="center">Hi, I'm Poorvi Kapoor 👋</h1>
+<h2>Hi, I'm Poorvi Kapoor! 👋</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-
-- 💼 **Product Professional** with <b>8+ years</b> of experience in SaaS, AI-driven products, and cybersecurity  
-- 📊 Proven track record in **turning strategy into roadmaps** and delivering **customer-centric features**  
-- 🚀 Impact highlights:  
-  - 20% faster onboarding & +15% CSAT (IdRamp)  
-  - +25% campaign engagement through market research (Cysecure)  
-  - +30% adoption & ↓ churn via adoption features (Cysecure)  
-  - 60% ↓ incident response time (CGI mobile app)  
-- 🧭 Skilled in **GTM, analytics, A/B testing, CI/CD,** and large-scale product launches  
-- 🌎 Based in San Jose, CA • Always exploring **AI, Identity, and Cloud** innovations  
-
-      </td>
-      <td>
-        <img src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" width="250" alt="Working GIF">
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>💼 <b>Product Professional</b> with <b>8+ years</b> of experience in SaaS, AI-driven products, and cybersecurity</li>
+        <li>📊 Proven track record in <b>turning strategy into roadmaps</b> and delivering <b>customer-centric features</b></li>
+        <li>🚀 <b>Impact highlights:</b>
+          <ul>
+            <li>20% faster onboarding &amp; +15% CSAT (IdRamp)</li>
+            <li>+25% campaign engagement via market research (Cysecure)</li>
+            <li>+30% adoption &amp; ↓ churn via adoption features (Cysecure)</li>
+            <li>60% ↓ incident response time (CGI mobile app)</li>
+          </ul>
+        </li>
+        <li>🧭 Skilled in <b>GTM, analytics, A/B testing, CI/CD</b>, and large-scale product launches</li>
+        <li>🌎 Based in San Jose, CA • Exploring <b>AI, Identity, and Cloud</b> innovations</li>
+      </ul>
+    </td>
+    <td>
+      <img 
+        src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" 
+        width="300" 
+        alt="Working GIF"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
