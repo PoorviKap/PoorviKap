@@ -74,5 +74,6 @@ Strategic product and market analysis with post-pandemic repositioning, subscrip
 ➡️ [Open Case Study Repository](https://github.com/PoorviKap/peloton-strategy-case-study)
 ➡️ [Pelton Strategy](https://github.com/PoorviKap/peloton-strategy-case-study/blob/main/Peloton%20Strategy.pdf)
 ➡️ [Market analysis](https://github.com/PoorviKap/peloton-strategy-case-study/blob/main/Market%20Analysis_Peloton.pdf)
+➡️ [All about Pelton](https://github.com/PoorviKap/peloton-strategy-case-study/blob/main/All%20about%20Peloton.pdf)
 
 
