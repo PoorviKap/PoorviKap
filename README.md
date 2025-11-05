@@ -64,3 +64,12 @@
 ## 📫 Contact
 - ✉️ **Email:** poorvikapoor89@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/poorvikapoor](https://www.linkedin.com/in/poorvikapoor/)  
+
+---
+
+## 🔍 Featured Work
+
+📁 **Peloton Strategy & Market Analysis Case Study**  
+Strategic product and market analysis with post-pandemic repositioning, subscription redesign, and go-to-market strategy.  
+➡️ [Open Case Study Repository](https://github.com/PoorviKap/peloton-strategy-case-study)
+
