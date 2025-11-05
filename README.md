@@ -72,4 +72,7 @@
 📁 **Peloton Strategy & Market Analysis Case Study**  
 Strategic product and market analysis with post-pandemic repositioning, subscription redesign, and go-to-market strategy.  
 ➡️ [Open Case Study Repository](https://github.com/PoorviKap/peloton-strategy-case-study)
+➡️ [Pelton Strategy](https://github.com/PoorviKap/peloton-strategy-case-study/blob/main/Peloton%20Strategy.pdf)
+➡️ [Market analysis](https://github.com/PoorviKap/peloton-strategy-case-study/blob/main/Market%20Analysis_Peloton.pdf)
+
 
