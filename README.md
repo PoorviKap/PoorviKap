@@ -35,14 +35,23 @@
 
 ## ⚙️ Tech Stack
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-informational?style=flat&logo=springboot&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql&logoColor=white">
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white">
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white">
-  <img alt="Confluence" src="https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&logoColor=white">
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-informational?style=flat&logo=jenkins&logoColor=white">
+**Product & Delivery**  
+Agile · Release Management · Change Readiness · Dependency Mapping · A/B Testing · Operationalization · Stakeholder Alignment  
+
+**Cloud & Backend**  
+Google Cloud · APIs (SaaS & Telephony) · SQL · PostgreSQL · NoSQL  
+
+**Communication & Automation Platforms**  
+Twilio · Marketo · HubSpot CRM · Microsoft 365 · SharePoint  
+
+**Data, Analytics & Experimentation**  
+Tableau · Google Analytics · Firebase · Splunk · Funnel & Cohort Metrics · AI/ML experimentation  
+
+**Engineering & DevOps Tools**  
+Jira · Bitbucket · Confluence · Jenkins · HP ALM · VMware · PuTTY · WinSCP · Telemetry & Monitoring  
+
+**Design & Collaboration**  
+Figma · UX Research · PRDs · Roadmaps · Cross-functional documentation
 </p>
 
 ---
