@@ -35,6 +35,7 @@
 
 ## ⚙️ Tech Stack
 <p>
+
 **Product & Delivery**  
 Agile · Release Management · Change Readiness · Dependency Mapping · A/B Testing · Operationalization · Stakeholder Alignment  
 
