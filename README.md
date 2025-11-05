@@ -57,16 +57,14 @@ Figma · UX Research · PRDs · Roadmaps · Cross-functional documentation
 
 ---
 
-## 📂 Featured Work
-- 🔗 **File-Sharing-Tool (AWS)** – EC2 + S3 + SES + Lambda + DynamoDB/RDS  
-- 🎮 **Snake-Game (Python)** – fun clean-code repo with GIF demo  
+## 📂 Featured Work 
 - 📱 **PG&E Mobile Case Study** – product journey, roadmap → launch → metrics  
 - 📊 **AI Onboarding Analytics** – synthetic dataset + funnels/activation notebooks  
 
 ---
 
 ## 🎓 Education
-- **M.Tech Management** — UC Santa Barbara  
+- **Masters in Technology Management** — UC Santa Barbara  
 - **B.Tech, IT** — Uttar Pradesh Technical University  
 
 ---
